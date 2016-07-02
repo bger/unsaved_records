@@ -7,3 +7,4 @@ gem 'pry'
 gem 'rails-dummy'
 gem 'sqlite3'
 gem 'rspec-rails'
+gem "nyan-cat-formatter"
